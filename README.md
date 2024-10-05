@@ -3,5 +3,4 @@
 
 ### What changed?
 *Instead of using primitive data structures I utilized enhanced structures such as HashMap and PriorityQueue.
-Also I've removed redundant comments and code lines.
-*
+Also I've removed redundant comments and code lines.*
